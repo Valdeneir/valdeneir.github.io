@@ -21,13 +21,13 @@ body {
 .left-section {
     grid-column: span 2;
     height: 100%;
-    background-color: #00204A;
+    background-color: #000000;
 }
 
 .right-section {
     grid-column: span 5;
     height: 100%;
-    background-color: #4B6982;
+    background-color: #575858;
     border-radius: 0px 60px 0px 0px;
 }
 
@@ -41,6 +41,7 @@ body {
 }
 
 .profile .profile-image {
+    
     width: 100%;
     border-radius: 60%;
     border: 6px solid #1B2631;
