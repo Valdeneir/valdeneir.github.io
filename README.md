@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela EBAC para ensino de tecnologias WEB.
 <br>
 
 <p align="center">
-  <img alt="Curriculo Valdeneir" src="[https://github.com/Valdeneir/NLW-10-COPA/blob/main/src/img/preview.jpg](https://github.com/Valdeneir/valdeneir.github.io/blob/main/img/cv.jpg?raw=true)" width="50" heigth="100" >
+  <img alt="Curriculo Valdeneir" src="https://github.com/Valdeneir/valdeneir.github.io/blob/main/img/cv.jpg?raw=true" width="50" heigth="100" >
 </p>
 
 ## 🚀 Tecnologias
