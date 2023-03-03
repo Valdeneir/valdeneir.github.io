@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Curriculo WEB, para exibir meus conhecimentos em tecnologia.
 
+<p>Clique <a href="https://valdeneir.github.io/"/>Aqui</a> para ver o projeto. </p>
+
 
 
 ## :memo: Licença
